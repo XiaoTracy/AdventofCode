@@ -1,2 +1,2 @@
 # AdventofCode
-Code Challenge
+Code Challenge Day 1
